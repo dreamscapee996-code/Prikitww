@@ -1,0 +1,13 @@
+img {
+    height: 400px;
+    weight: 400px;
+}
+body {
+    background-color: palevioletred;
+}
+h1{
+            color: blue;
+        }
+p{
+            font-family: Arial, Helvetica, sans-serif;
+        }
